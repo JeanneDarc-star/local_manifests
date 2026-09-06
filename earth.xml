@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="mt6768-dev" fetch="https://github.com/mt6768-dev" />
- <remote name="inoo-droid" fetch="https://github.com/inoo-droid" />
+ <remote name="JeanneDarc-star" fetch="https://github.com/JeanneDarc-star" />
   <remote name="lineageos" fetch="https://github.com/LineageOS" />
 
   <project name="android_device_xiaomi_earth"
            path="device/xiaomi/earth"
-           remote="inoo-droid"
+           remote="JeanneDarc-star
            revision="lineage-23.2" />
 
   <project name="android_kernel_xiaomi_earth"
